@@ -1,5 +1,5 @@
 # Владимир Терехин (он же Скунс)
-![Аватарка](https://github.com/JSkuns/Git777/blob/master/img/skuns.jpg)
+<img src="https://github.com/JSkuns/Git777/blob/master/img/skuns.jpg" alt="avatar" width="100"/>
 ## Немного о себе:
 Работаю, учусь в Нетологии на java-разработчика.
 Женат, двое детей =)
